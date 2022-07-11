@@ -9,6 +9,15 @@
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
+	<AddIn Type="Command">
+    <Text>Session02_Challenge</Text>
+    <Description>Session02_Challenge</Description>
+    <Assembly>RevitAddin2.dll</Assembly>
+    <FullClassName>RevitAddin2.Session02_Challenge</FullClassName>
+    <ClientId>D5E090BB-A5F0-4556-A4E6-181E8EF8649E</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
   <AddIn Type="Application">
     <Name>Application RevitAddin2</Name>
     <Assembly>RevitAddin2.dll</Assembly>
